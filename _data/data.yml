@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Anh Nguyen
-    tagline: Vocational Education Trainer | Lead Educator
+    name: Gilsoo Park
+    tagline: FrontEnd, BackEnd, Database Learner
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a.nguyen@kangan.edu.au
+    email: kikiki10004@gmail.com
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Australian citizen
     linkedin: anh-nguyen-99b82baa
@@ -22,13 +22,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: intermediate
+
+        - idiom: Korean
           level: Native
-
-        - idiom: Vietnamese
-          level: Basic
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
