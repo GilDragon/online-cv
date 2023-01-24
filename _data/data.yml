@@ -56,6 +56,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Mechanic(Wheel aligning)
+        time: 2016 - 2022
+        company: Patamak PTY
+        details: |
+          Richmond, Victoria, Australia
+          
       - role: Kangan IT(FE,BE,DB)
         time: 2022 - Present
         company: Bendigo Kangan Institute
