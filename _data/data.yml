@@ -15,8 +15,8 @@ sidebar:
     email: kikiki10004@student.kangan.edu.au
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Korean citizen, Australian Permanent Residence
-    linkedin: anh-nguyen-99b82baa
-    github: a-nguyen-kangan
+    linkedin: 
+    github: https://github.com/GilDragon
 
     languages:
       title: Languages
@@ -30,7 +30,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Ju Jitsu
+        - item: Jiu Jitsu
           link:
 
 career-profile:
