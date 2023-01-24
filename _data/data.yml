@@ -22,7 +22,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: intermediate
+          level: Nice
 
         - idiom: Korean
           level: Native
@@ -74,9 +74,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to keep a basic list of contacts."
 
-      - title: Train Kiosk
-        link: "#"
-        tagline: "A responsive website template designed to list trains departures from Richmond stations."
 
 skills:
     title: Skills &amp; Proficiency
