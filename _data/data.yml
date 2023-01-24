@@ -12,7 +12,7 @@ sidebar:
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kikiki10004@gmail.com
+    email: kikiki10004@student.kangan.edu.au
     timezone: AEDT / Australian Eastern Daylight Savings
     citizenship: Korean citizen, Australian Permanent Residence
     linkedin: anh-nguyen-99b82baa
@@ -30,62 +30,35 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Judo
-          link:
-
-        - item: MMA
-          link:
-
-        - item: Tennis
+        - item: Ju Jitsu
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Vocational Education Trainer and course Co-ordinator
-      Experienced corporate trainer
-      Experienced Application Developer
+      Kangan phone book / FrontEnd
+      https://kanganphonebook.azurewebsites.net/all
 
 education:
     title: Education
     info:
-      - degree: Bachelor of Computer Science
-        university: RMIT University
-        time: 1999 - 2002
-        details: |
-          Majors
-            - AI
-            - Cryptography
-      - degree: Diploma in Vocational Education Training
-        university: Northern Melbourne Institute of TAFE
-        time: 2009
-      - degree: CIV in Training and Assessment
-        university: Swinburne University
-        time: 2012
+      - degree: DIPLOMA IN AUTOMOTIVE LIGHT VEHICLE
+        university: KANGAN TAFE
+        time: 2013 ~ 2015
+        
+      - degree: CERTIFICATE Ⅳ
+        university: KANGAN TAFE
+        time: 2022 ~ 2023
 
 experiences:
     title: Experiences
     info:
       - role: Lead Educator
-        time: 20122 - Present
+        time: 2022 - Present
         company: Bendigo Kangan Institute
         details: |
           Cremorne, Victoria, Australia
-      - role: Vocational Education Trainer, Assessor and Co-ordinator
-        time: 2011 - 2022
-        company: Swinburne University
-        details: |
-          Courses areas created and involved:
-            - CIV and Diploma in Software Development (created)
-            - Cyber Security (taught and developed)
-            - Games Development (taught and developed)
-            - Networking (taught)
-      - role: Training Analyst
-        time: 2014
-        company: Toxfree Solutions
-        details: |
-          ERP - Standardisation
-          Mulgrave, Victoria, Australia
+
 projects:
     title: Projects
     intro: >
@@ -106,22 +79,19 @@ skills:
 
     toolset:
       - name: C# (ASP.NET)
-        level: 80%
+        level: 50%
 
       - name: Javascript
-        level: 80%
+        level: 50%
 
       - name: Angular
-        level: 90%
+        level: 0%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
       - name: React
-        level: 70%
-
-      - name: Adult Education
-        level: 95%
+        level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Fanime%2Fone-piece-monkey-d-luffy-gear-5-awakening-rubber-body-dt_en-US-95707.html&psig=AOvVaw3gYHVQKZOU0uSi-124QP6H&ust=1674614928954000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCNjJk_yY3_wCFQAAAAAdAAAAABC1AQ</a>
