@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: kikiki10004@student.kangan.edu.au
     timezone: AEDT / Australian Eastern Daylight Savings
-    citizenship: Korean citizen, Australian Permanent Residence
+    citizenship: Australian Permanent Residence,  Korean citizen
     linkedin: 
     github: https://github.com/GilDragon
 
@@ -56,6 +56,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Bussy
+        time: 2013 - 2016
+        company: EMS Holdings
+        details: |
+          Melbourne, Victoria, Australia
       - role: Mechanic(Wheel aligning)
         time: 2016 - 2022
         company: Patamak PTY
